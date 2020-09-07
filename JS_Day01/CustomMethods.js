@@ -27,7 +27,7 @@ function reverseSTR(str){
     }
 }
 
-reverseSTR(123);
+reverseSTR("Abbos");
 
 
 // typeof: returns the data type name
